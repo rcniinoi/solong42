@@ -1,6 +1,10 @@
 # solong42
 my 42ecole's project 'So_long'
 
+clone first 
+
+gh repo clone rcniinoi/solong42
+
 to compile use 'make' or 'make re' on terminal
 to play type './solong ./maps/{mapfile.ber}'
 
